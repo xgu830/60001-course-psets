@@ -1,6 +1,9 @@
 # 60001-course-psets
 
-##ps1
-###Part A: House hunting
+## ps1
 
-###Part B: Saving, with a raise
+### Part A: House hunting
+
+### Part B: Saving, with a raise
+
+
