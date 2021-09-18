@@ -3,7 +3,7 @@ portion_down_payment = 0.2
 print("Down payment required:", portion_down_payment * total_cost)
 
 current_savings = float(input("Enter your current savings: "))
-invest_return = 0.1
+invest_return = float(input("Enter your annual invest return, as a decimal(i.e. 0.1 for 10%): "))
 annual_salary = float(input("Enter your starting annual salary: "))
 portion_saved = float(input("Enter the percent of your salary to save, as a decimal(i.e. 0.1 for 10%): "))
 
