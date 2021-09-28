@@ -16,6 +16,10 @@ Adding a semi-annual salary raise.
 
 Calculate the best saving rate to reach the desired down payment.
 
+## ps2
+
+
+
 ## References
 
 <div id="refs">Ana Bell, Eric Grimson, and John Guttag. 6.0001 Introduction to Computer Science and Programming in Python. Fall 2016. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.</div>
